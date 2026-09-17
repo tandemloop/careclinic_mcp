@@ -1,0 +1,14 @@
+Copyright (c) 2026 CareClinic Software Inc. All rights reserved.
+
+This repository is published for documentation and integration purposes only.
+It describes how third-party MCP clients and AI assistants connect to the
+hosted CareClinic MCP service at https://mcp.careclinic.io/mcp.
+
+No license, express or implied, is granted to any CareClinic software, source
+code, service, data, trademark, or other intellectual property. Nothing in this
+repository may be copied, modified, distributed, sublicensed, or used to create
+a derivative work without prior written permission from CareClinic Software Inc.
+
+The service is provided on an as-is basis for personal health tracking. It is not
+a diagnostic or clinical service and is not intended for HIPAA covered-entity
+use.

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.careclinic/health-tracker",
+  "title": "CareClinic Health Tracker",
+  "description": "Review schedules, symptoms, mood, and explicitly confirmed CareClinic check-ins.",
+  "websiteUrl": "https://cdn.careclinic.io/mcp/help/index.html",
+  "icons": [
+    {
+      "src": "https://cdn.careclinic.io/mcp-assets/careclinic-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["1024x1024"]
+    }
+  ],
+  "version": "0.2.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.careclinic.io/mcp"
+    }
+  ]
+}
