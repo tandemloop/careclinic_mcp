@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Email security@careclinic.io with the details. Do not open a public issue that
+Email dev@careclinic.io with the details. Do not open a public issue that
 contains credentials, access tokens, health information, account identifiers, or
 data copied from a real CareClinic account.
 
